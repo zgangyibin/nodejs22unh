@@ -1,0 +1,1 @@
+{"version":3,"sources":["../src/db.js"],"names":["callback"],"mappings":";;;;;;kBAAe,oBAAY;AAC1BA;AACA,C","file":"db.js","sourcesContent":["export default callback => {\n\tcallback();\n}\n"]}

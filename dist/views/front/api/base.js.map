@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../../src/views/front/api/base.js"],"names":["base","url"],"mappings":";;;;;AAAC,IAAMA,OAAO;AACVC,SAAM;AADI,CAAb;kBAGcD,I","file":"base.js","sourcesContent":["﻿const base = {\r\n    url : \"http://localhost:8080/nodejs22unh/\"\r\n}\r\nexport default base\r\n"]}

@@ -1,0 +1,1 @@
+{"version":3,"sources":["../../../../../../../src/views/front/components/zebra-swiper/libs/translate/minTranslate.js"],"names":["minTranslate","snapGrid"],"mappings":";;;;;kBAAwBA,Y;AAAT,SAASA,YAAT,GAAwB;AACrC,SAAO,CAAC,KAAKC,QAAL,CAAc,CAAd,CAAR;AACD","file":"minTranslate.js","sourcesContent":["export default function minTranslate() {\n  return -this.snapGrid[0];\n}"]}
